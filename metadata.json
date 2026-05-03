@@ -1,0 +1,6 @@
+{
+  "name": "SciDraft AI",
+  "description": "AI-powered scientific research assistant for generating experimental methods and converting markdown with formulas to Word and LaTeX formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
